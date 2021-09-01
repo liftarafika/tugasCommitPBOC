@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+Alifta Rafika S / 202410101128
